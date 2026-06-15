@@ -1,6 +1,15 @@
 # Portafolio de Luis Mateos Sánchez
 
-Bienvenido a mi portafolio profesional.  
-Soy estudiante de ASIR con interés en redes, sistemas y administración IT.
+Estoy empezando en ASIR y este es mi espacio para ir guardando mis primeros proyectos y prácticas.
 
-Aquí iré añadiendo mis proyectos, prácticas y documentación técnica.
+## Proyectos (muy básicos)
+- VLAN + Trunking (Packet Tracer)
+- DHCP + NAT/PAT + ACL
+- Proyecto HW Industries (montaje de Windows 10 en VM)
+
+## Sobre mí
+Estudiante de 1.º de ASIR, aprendiendo redes y sistemas paso a paso.
+
+## Contacto
+Email: luismateostm@gmail.com
+LinkedIn: Luis Mateos Sánchez
